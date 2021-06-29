@@ -69,7 +69,7 @@ select {
   display: block;
   width: 100%;
   padding: 8px;
-  color: #8e979f;
+  color: #16181a;
   outline: none;
 }
 
@@ -98,7 +98,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("https://images.axios.com/40yKmjksUxd94lm5FsUDW9g_Plk=/0x0:6850x3853/1920x1080/2019/04/25/1556227241167.jpg");
+  background-image: url("https://media.canadianunderwriter.ca/uploads/2021/06/UFO-1-1.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
@@ -107,7 +107,9 @@ select {
 .hero h1 {
   margin-top: 200px;
   font-size: 0.1rem;
+  color: #410c0c;
   animation: title 1.2s forwards linear;
+  text-align: center
 }
 
 .hero p {
@@ -115,6 +117,7 @@ select {
   opacity: 0;
   animation: subtitle 1.2s forwards linear;
   animation-delay: 1.2s;
+  color: #200101;
 }
 
 /* input placeholder color changes */
